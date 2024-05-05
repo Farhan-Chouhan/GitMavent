@@ -26,7 +26,7 @@ public class GitMavenProject {
         else{
             System.out.println("Page Title is fail");
         }
-        /* Assert.assertEquals(expectedPageTitle, actualPageTitle);*/
+
 
     }
 
